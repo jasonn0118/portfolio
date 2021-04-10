@@ -84,9 +84,9 @@ Project Link: [https://github.com/jasonn0118/JobSearchApp.git](https://github.co
 
 
 
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/jasonn0118/Portfolio.svg?style=for-the-badge
 [stars-url]: https://github.com/jasonn0118/portfolio/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/jasonn0118/Portfolio.svg?style=for-the-badge
 [issues-url]: https://github.com/jasonn0118/portfolio/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jasonshin0118/
